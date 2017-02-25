@@ -3,7 +3,7 @@
 //  Emoji Dictionary
 //
 //  Created by Macbook Pro on 25/02/2017.
-//  Copyright © 2017 .ViralTech. All rights reserved.
+//  Copyright © 2017 ViralTech. All rights reserved.
 //
 
 import UIKit
